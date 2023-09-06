@@ -4,22 +4,22 @@ XTerm*cursorColor: #f0cb09
 XTerm*faceName:  NotoSansMono
 XTerm*faceSize: 12
 XTerm*selectToClipboard: true
-XTerm*color0: #494d64
-XTerm*color1: #ed8796
-XTerm*color2: #a6da95
-XTerm*color3: #eed49f
-XTerm*color4: #8aadf4
-XTerm*color5: #f5bde6
-XTerm*color6: #8bd5ca
-XTerm*color7: #b8c0e0
-XTerm*color8: #5b6078
-XTerm*color9: #ed8796
-XTerm*color10: #a6da95
-XTerm*color11: #ee99a0
-XTerm*color12: #8aadf4
-XTerm*color13: #f5bde6
-XTerm*color14: #8bd5ca
-XTerm*color15: #a5adcb
+XTerm*color0: #000000
+XTerm*color1: #ff0000
+XTerm*color2: #37dd21
+XTerm*color3: #fee409
+XTerm*color4: #1460d2
+XTerm*color5: #ff005d
+XTerm*color6: #00bbbb
+XTerm*color7: #bbbbbb
+XTerm*color8: #545454
+XTerm*color9: #f40d17
+XTerm*color10: #3bcf1d
+XTerm*color11: #ecc809
+XTerm*color12: #5555ff
+XTerm*color13: #ff55ff
+XTerm*color14: #6ae3f9
+XTerm*color15: #ffffff
 
 
 XTerm*VT100.Translations: #override \
