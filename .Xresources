@@ -1,0 +1,27 @@
+XTerm.vt100.background: #24273a
+XTerm.vt100.foreground: #cdd6f4
+XTerm*cursorColor: #f0cb09
+XTerm*faceName:  NotoSansMono
+XTerm*faceSize: 12
+XTerm*selectToClipboard: true
+XTerm*color0: #494d64
+XTerm*color1: #ed8796
+XTerm*color2: #a6da95
+XTerm*color3: #eed49f
+XTerm*color4: #8aadf4
+XTerm*color5: #f5bde6
+XTerm*color6: #8bd5ca
+XTerm*color7: #b8c0e0
+XTerm*color8: #5b6078
+XTerm*color9: #ed8796
+XTerm*color10: #a6da95
+XTerm*color11: #ee99a0
+XTerm*color12: #8aadf4
+XTerm*color13: #f5bde6
+XTerm*color14: #8bd5ca
+XTerm*color15: #a5adcb
+
+
+XTerm*VT100.Translations: #override \
+      Shift Ctrl<Key>V: insert-selection(CLIPBOARD) \n\ 
+      Shift Ctrl<Key>V: insert-selection(PRIMARY) \n
